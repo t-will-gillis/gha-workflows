@@ -1,0 +1,8 @@
+{
+  "name": "Add Update Label Weekly",
+  "description": "Automatically checks issue assignee's activity and labels issues needing update",
+  "iconName": "octicon alert",
+  "categories": [
+    "Automation"
+  ]
+}
